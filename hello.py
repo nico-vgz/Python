@@ -15,5 +15,7 @@ lijst.append(item)
 for item in  lijst:
 	print item['Name']
 
-
+print hello
+print("hello"
+print "hello"
 
