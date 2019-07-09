@@ -18,4 +18,6 @@ for item in  lijst:
 print hello
 print("hello"
 print "hello"
+if "ja" <> "nee":
+      print "nee, ja"
 
